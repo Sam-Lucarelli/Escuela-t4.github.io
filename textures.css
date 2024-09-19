@@ -1,3 +1,12 @@
 body{
     background-color: black;
 }
+#Titulo{
+    font-size: 6em;
+    color:#2f7ed8; 
+    
+    -webkit-text-stroke: 3px #1630BE;
+}
+.Cuadrado{
+    background-color: #666666;
+}
